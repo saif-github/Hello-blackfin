@@ -1,0 +1,10 @@
+
+VDK is the RTOS kerenel that supports to the blackfin DSP by Analog Devices.
+It is in association with Visual DSP++ and well supported by its graphical views.
+
+
+This example is to demonstrate thread creation,semaphores and scheduling
+
+for more information see Visual DSP++ Help.
+
+explore more.
